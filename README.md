@@ -1,5 +1,6 @@
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74](https://github.com/awsd456/awsd456/assets/129511307/0882dd2b-2a9b-40c6-ab0d-3c2114cafaa9)### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+
+### Hi there 👋
+
 
 <!--
 **awsd456/awsd456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
