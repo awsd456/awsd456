@@ -9,7 +9,7 @@
 <br></br>
 <img src="https://img.shields.io/badge/html-003545?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-003545?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-003545?style=for-the-badge&logo=javascript&logoColor=white">
 
-![여러분의 이름's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsd456&show_icons=true&theme=radical)
+![홍기윤's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsd456&show_icons=true&theme=radical)
 
 </div>
 ### Hi there 👋
