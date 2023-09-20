@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=87ceeb&height=300&section=header&text=Hong%20Gi%20Yoon%20Git%20&fontSize=90&animation=twinkling" />
 	
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-81c147?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mybatis-81c147?style=for-the-badge&logo=mybatis&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/jpa-003545?style=for-the-badge&logo=jpa&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-81c147?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mybatis-81c147?style=for-the-badge&logo=mybatis&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/JPA-003545?style=for-the-badge&logo=JPA&logoColor=white">
 
 ### Hi there 👋
 
