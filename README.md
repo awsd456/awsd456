@@ -2,6 +2,7 @@
 	
 <img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-81c147?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/mybatis-81c147?style=for-the-badge&logo=mybatis&logoColor=white">
 
 ### Hi there 👋
 
