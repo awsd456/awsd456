@@ -9,6 +9,8 @@
 <br></br>
 <img src="https://img.shields.io/badge/html-003545?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-003545?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-003545?style=for-the-badge&logo=javascript&logoColor=white">
 
+<img src="https://img.shields.io/badge/book-003545?style=for-the-badge&logo=book&logoColor=white">
+
 </div>
 ### Hi there 👋
 
