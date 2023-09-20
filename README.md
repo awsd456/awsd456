@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=#81c147&height=300&section=header&text=Hong%20Gi%20Yoon%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=EEFF00&height=300&section=header&text=Hong%20Gi%20Yoon%20&fontSize=90" />
 
 
 
