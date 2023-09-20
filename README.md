@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=300&section=header&text=Hong%20Gi%20Yoon%20Git%20&fontSize=90&animation=twinkling&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=300&section=header&text=Hong%20Gi%20Yoon%20Git%20&fontSize=90&animation=twinkling&fontColor=FDFDFD" />
 
  <div align="center">
   
