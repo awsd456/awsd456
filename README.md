@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=87ceeb&height=300&section=header&text=Hong%20Gi%20Yoon%20Git%20&fontSize=90&animation=twinkling" />
 	
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-81c147?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mybatis-81c147?style=for-the-badge&logo=mybatis&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/JPA-003545?style=for-the-badge&logo=JPA&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-81c147?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mybatis-81c147?style=for-the-badge&logo=mybatis&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/JPA-003545?style=for-the-badge&logo=JPA&logoColor=white">
+<br>
 프론트는 현재 공부중
 <img src="https://img.shields.io/badge/html-003545?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-003545?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-003545?style=for-the-badge&logo=javascript&logoColor=white">
 
